@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1714494232 source:d:\courses\zaghloul diploma\c - part\c_projects\bank_database_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bank_Database.h"
+
+1714494232 d:\courses\zaghloul diploma\c - part\c_projects\bank_database_project\bank_database.h
+
+1714494595 source:d:\courses\zaghloul diploma\c - part\c_projects\bank_database_project\bank_database.c
+	"Bank_Database.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
